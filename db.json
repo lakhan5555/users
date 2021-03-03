@@ -1,3 +1,20 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Lakhan",
+      "username": "lakhan555590",
+      "email": "lakhan@gmail.com",
+      "phone": "8516",
+      "website": "hgff",
+      "id": 12
+    },
+    {
+      "name": "Sonu",
+      "username": "Sonu12345",
+      "email": "sonu@gmail.com",
+      "phone": "8461",
+      "website": "sonu.com",
+      "id": 13
+    }
+  ]
 } 
